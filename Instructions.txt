@@ -1,0 +1,3 @@
+To run the draughts game make sure main.exe is in this folder and run the file
+
+A copy of main.exe can be found in the folder marked dist
